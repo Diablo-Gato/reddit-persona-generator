@@ -1,0 +1,14 @@
+| Trait/Inference | Supporting Quote | Reddit Link |
+|---|---|---|
+| Lives in New York City and is sensitive to the changing demographics of his neighborhood | "There's this bar that I frequent a few blocks away from my house. ... Today when I went to the bar and all of a sudden I felt like I was at a college basement party. ... I was at the wrong party." | https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/ |
+| Interested in the experiences of H1B visa holders in the US | "H1B holders, what are your thoughts on the narrative that you are being exploited?" | https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/ |
+| Interested in NBA refereeing inconsistencies | "What needs to happen for the league to review the inconsistencies of the refs?" | https://www.reddit.com/r/nba/comments/1hcopxo/what_needs_to_happen_for_the_league_to_review_the/ |
+| Holds conservative political views (inferred from subreddit participation) |  (Post removed, but subreddit implies conservative leaning) | https://www.reddit.com/r/Conservative/comments/1h8ddbp/are_you_guys_foragainst_banning_tiktok_in_the_us/ |
+| Interested in generational differences and pop culture | "There's so many coming of age movies for boomers and millennials, what about for gen-Z?" | https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/ |
+| Early adopter of Apple Vision Pro and interested in its applications | "Watching Edgerunners on the moon feels" | https://www.reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/ |
+| iOS developer interested in spatial computing | "Hey I’m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?" | https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/ |
+| Enthusiastic about future technologies, especially Apple products | "Can't wait for Vision Air 5 launching in 2034 with these transparent displays!" | https://www.reddit.com/r/VisionPro/comments/1b36n83/cant_wait_for_vision_air_5_launching_in_2034_with/ |
+|  Uses Apple Vision Pro and is interested in its potential for gaming and entertainment | "Would you guys like to see Pokemon Go in AVP?" | https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/ |
+| Potentially has connections within the gaming industry (specifically Pokemon and Niantic) | "Being Japanese, I happen to know a few key decision makers both in the Pokemon Company as well as Niantic." | https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/ |
+
+
